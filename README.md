@@ -5,3 +5,4 @@
 - 🌱 I’m learning **MERN Stack & Data Structures**
 - 💬 Ask me about **JavaScript, Web Development, and Algorithms**
 - 📫 How to reach me: **[Email](mailto: geletatamiru@yahoo.com)**
+- ![Geleta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeletaTamiru&show_icons=true&theme=radical)
