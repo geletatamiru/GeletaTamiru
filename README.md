@@ -1,12 +1,9 @@
 <!-- 👋 Hi there! Welcome to my GitHub Profile -->
 
-<h1 align="center">Hi there! 👋 I'm Geleta Tamiru</h1>
-<h3 align="center">🚀 Computer Science Student | Mern Stack Developer</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A5A5&width=435&lines=Hi!+I'm+Geleta+Tamiru;Welcome+to+my+GitHub+Profile" alt="Typing SVG">
 </p>
-
+<h3 align="center">🚀 Computer Science Student | Mern Stack Developer</h3>
 ---
 
 ### 🛠️ **About Me**
