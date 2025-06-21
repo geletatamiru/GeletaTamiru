@@ -3,12 +3,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A5A5&width=435&lines=Hi!+I'm+Geleta+Tamiru;Welcome+to+my+GitHub+Profile" alt="Typing SVG">
 </p>
-<h3 align="center">🚀 Computer Science Student | Mern Stack Developer</h3>
+<h3 align="center">🚀 Computer Science Student | Web Developer</h3>
 ---
 
 ### 🛠️ **About Me**
 - 🎓 3rd-year **Computer Science Student**  
-- 🌱 Learning **MERN Stack & Data Structures**  
+- 🌱 Learning **Next.js**  
 - 💡 Exploring **Back-End Web Development**  
 - 🎯 **Goal:** Become a great developer & build amazing projects  
 - 📫 Reach me at: **[Email](mailto: geletatamiru@yahoo.com)**  
@@ -22,9 +22,7 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
@@ -53,7 +51,5 @@
 </p>
 
 ---
-
-⭐ **Fun Fact:** _"The best way to predict the future is to create it." – Alan Kay_  
 
 💖 **Thanks for visiting my GitHub profile!** 🚀  
